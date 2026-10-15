@@ -10,13 +10,13 @@
       "author": "Loki-vtx",
       "icon": "LinkIcon",
       "channels": {
-        "latest": "0.1.2"
+        "latest": "0.1.1"
       },
       "versions": {
-        "0.1.2": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/Loki-vtx.CustomTags@0.1.2.zip",
-          "sha256": "2b1e1817300a943945f73c4914fc42e24d311239f55c5bee31a3278e87fc7ea3",
-          "size": 13516,
+        "0.1.1": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/Loki-vtx.CustomTags@0.1.1.zip",
+          "sha256": "b738ac300af1717e05ba06e3574e5493696ea15d3180b281eb2c1a5589c13e1a",
+          "size": 13745,
           "dependencies": {
             "revenge.api": {
               "version": ">=1"
@@ -395,6 +395,30 @@
             },
             "dev.kmmiio99o.lib": {
               "version": ">=1.2.17"
+            }
+          }
+        }
+      }
+    },
+    "wolfie.questify": {
+      "name": "Questify",
+      "description": "Browse Discord quests, track progress, and auto-complete supported quests from their menus.",
+      "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
+      "icon": "QuestsIcon",
+      "channels": {
+        "latest": "1.0.2"
+      },
+      "versions": {
+        "1.0.2": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/wolfie.questify@1.0.2.zip",
+          "sha256": "67ae80f9c557ae2a18af1b08f6ff95c42beeeb8cd658cac59c20e4dc2fa24f28",
+          "size": 8734,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
             }
           }
         }
