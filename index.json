@@ -55,6 +55,30 @@
         }
       }
     },
+    "Loki.vtx.questify": {
+      "name": "Questify",
+      "description": "Browse Discord quests, track progress, and auto-complete supported quests from their menus.",
+      "author": "Loki-vtx",
+      "icon": "QuestsIcon",
+      "channels": {
+        "latest": "1.0.1"
+      },
+      "versions": {
+        "1.0.1": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.questify@1.0.1.zip",
+          "sha256": "a0b4fac034ae3def82aa00044c8c2eb3acdf7a73fbe0c0855ff668e29f982738",
+          "size": 8659,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "Loki.vtx.silent-edit": {
       "name": "Silent Edit",
       "description": "Edit your messages silently: the new text is resent and the old message deleted, so no \"(edited)\" tag appears.",
@@ -395,30 +419,6 @@
             },
             "dev.kmmiio99o.lib": {
               "version": ">=1.2.17"
-            }
-          }
-        }
-      }
-    },
-    "wolfie.questify": {
-      "name": "Questify",
-      "description": "Browse Discord quests, track progress, and auto-complete supported quests from their menus.",
-      "author": "Wolfie <347096063569559553> (https://wolfies.org/ \"Website\") (https://github.com/Wolfkid200444 \"GitHub\")",
-      "icon": "QuestsIcon",
-      "channels": {
-        "latest": "1.0.2"
-      },
-      "versions": {
-        "1.0.2": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/wolfie.questify@1.0.2.zip",
-          "sha256": "67ae80f9c557ae2a18af1b08f6ff95c42beeeb8cd658cac59c20e4dc2fa24f28",
-          "size": 8734,
-          "dependencies": {
-            "revenge.api": {
-              "version": ">=1 <2"
-            },
-            "discord": {
-              "version": "*"
             }
           }
         }
