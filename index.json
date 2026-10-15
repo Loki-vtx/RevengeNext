@@ -61,13 +61,13 @@
       "author": "Loki-vtx",
       "icon": "QuestsIcon",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.2"
       },
       "versions": {
-        "1.0.1": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.questify@1.0.1.zip",
-          "sha256": "0302aedfd1baa613c4f25eeae20b34254f5c87e66b32c6753ace2401e451337a",
-          "size": 8645,
+        "1.0.2": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.questify@1.0.2.zip",
+          "sha256": "db974432c0d539a0fdad2096e4146a03cafd44547622d1ea0d4d2c3b90b6453f",
+          "size": 8646,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
