@@ -14,7 +14,6 @@ import type { Settings } from './settings/config'
 export default plugin<{ jsonStorage: Settings }>({
 	jsonStorage: { load: true, default: defaults },
 	start({ cleanup, jsonStorage, plugin }) {
-		scheduleStartupWarning(cleanup, jsonStorage)
 		startCompletionLifecycle(cleanup, jsonStorage, error =>
 			plugin.reportError(error),
 		)
