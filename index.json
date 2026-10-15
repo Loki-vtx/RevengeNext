@@ -66,8 +66,8 @@
       "versions": {
         "1.0.1": {
           "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.questify@1.0.1.zip",
-          "sha256": "a0b4fac034ae3def82aa00044c8c2eb3acdf7a73fbe0c0855ff668e29f982738",
-          "size": 8659,
+          "sha256": "0302aedfd1baa613c4f25eeae20b34254f5c87e66b32c6753ace2401e451337a",
+          "size": 8645,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
