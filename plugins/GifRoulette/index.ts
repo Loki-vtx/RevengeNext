@@ -154,6 +154,8 @@ function registerGifRoulette(
 	)
 }
 
+// THANK YOU btmc727 >333
+
 export default plugin({
 	start({ cleanup, plugin }) {
 		cleanup(

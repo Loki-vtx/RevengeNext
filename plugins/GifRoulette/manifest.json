@@ -2,8 +2,8 @@
   "format": 1,
   "id": "loki.vtx.gif.roulette",
   "name": "GIF Roulette",
-  "description": "Sends a random GIF from your favorite GIFs.",
-  "author": "YourName",
+  "description": "Sends a random GIF from your favorite GIFs. Based on btmc727",
+  "author": "Loki-vtx",
   "version": "0.0.1",
   "dependencies": {
     "revenge.api": {
