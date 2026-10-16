@@ -1,0 +1,20 @@
+{
+	"format": 1,
+	"id": "Loki.vtx.questify",
+	"name": "Silent-Edit",
+	"description": "too lazy to add shit here sry not sry.",
+	"author": "Loki-vtx",
+	"icon": "PencilIcon",
+	"version": "1.0.0",
+	"dependencies": {
+		"revenge.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}
