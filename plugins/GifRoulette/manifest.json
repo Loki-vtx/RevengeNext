@@ -1,0 +1,19 @@
+{
+  "format": 1,
+  "id": "loki.vtx.gif.roulette",
+  "name": "GIF Roulette",
+  "description": "Sends a random GIF from your favorite GIFs.",
+  "author": "YourName",
+  "version": "0.0.1",
+  "dependencies": {
+    "revenge.api": {
+      "version": ">=1 <2"
+    },
+    "discord": {
+      "version": "*"
+    }
+  },
+  "dist": {
+    "script": "index.js"
+  }
+}
