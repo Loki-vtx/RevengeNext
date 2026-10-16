@@ -4,7 +4,7 @@
   "name": "GIF Roulette",
   "description": "Sends a random GIF from your favorite GIFs. Based on btmc727",
   "author": "Loki-vtx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "revenge.api": {
       "version": ">=1 <2"
