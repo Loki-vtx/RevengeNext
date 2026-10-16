@@ -429,12 +429,12 @@
       "description": "Sends a random GIF from your favorite GIFs. Based on btmc727",
       "author": "Loki-vtx",
       "channels": {
-        "latest": "0.0.1"
+        "latest": "0.0.2"
       },
       "versions": {
-        "0.0.1": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/loki.vtx.gif.roulette@0.0.1.zip",
-          "sha256": "26936412000583cd3c50ab484942a2b7a6101022c368ff68157229c1de9ec62d",
+        "0.0.2": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/loki.vtx.gif.roulette@0.0.2.zip",
+          "sha256": "6190fbabb164912b35cb4b28ac03662906fb272db32f600f62482ec8fd96f52d",
           "size": 1442,
           "dependencies": {
             "revenge.api": {
