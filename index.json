@@ -426,16 +426,16 @@
     },
     "loki.vtx.gif.roulette": {
       "name": "GIF Roulette",
-      "description": "Sends a random GIF from your favorite GIFs.",
-      "author": "YourName",
+      "description": "Sends a random GIF from your favorite GIFs. Based on btmc727",
+      "author": "Loki-vtx",
       "channels": {
         "latest": "0.0.1"
       },
       "versions": {
         "0.0.1": {
           "url": "https://Loki-vtx.github.io/RevengeNext/loki.vtx.gif.roulette@0.0.1.zip",
-          "sha256": "ac9d53f3ae584e3a3055a9c2824cbeb4ebfee47b370a45816eab7551d83e677c",
-          "size": 1427,
+          "sha256": "26936412000583cd3c50ab484942a2b7a6101022c368ff68157229c1de9ec62d",
+          "size": 1442,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
