@@ -28,6 +28,30 @@
         }
       }
     },
+    "Loki.vtx.CopyBios": {
+      "name": "CopyBios",
+      "description": "too lazy to add shit here sry not sry.",
+      "author": "Loki-vtx <918437723755384832> ",
+      "icon": "PencilIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.CopyBios@1.0.0.zip",
+          "sha256": "7c0a9766492bd89023ce21409c1d756b370da5b7ac0e56c95e7ece33982bbcd6",
+          "size": 836,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "Loki.vtx.message-tweaks": {
       "name": "Message Tweaks",
       "description": "Keep deleted messages in chat with red tint and an edit-history trail, unspoiler everything, precise timestamps, and usernames next to nicknames.",
@@ -74,6 +98,33 @@
             },
             "discord": {
               "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "Loki.vtx.silent-edit": {
+      "name": "Silent Edit",
+      "description": "Edit your messages silently: the new text is resent and the old message deleted, so no \"(edited)\" tag appears.",
+      "author": "Loki.vtx",
+      "icon": "PencilIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.silent-edit@1.0.0.zip",
+          "sha256": "a26a44206493c1df9a3506df0bf28b52e0aa020b97a61c4b20f8ff5fd226e8d6",
+          "size": 3039,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "dev.kmmiio99o.lib": {
+              "version": ">=1.2.17"
             }
           }
         }
