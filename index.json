@@ -103,33 +103,6 @@
         }
       }
     },
-    "Loki.vtx.silent-edit": {
-      "name": "Silent Edit",
-      "description": "Edit your messages silently: the new text is resent and the old message deleted, so no \"(edited)\" tag appears.",
-      "author": "Loki.vtx",
-      "icon": "PencilIcon",
-      "channels": {
-        "latest": "1.0.0"
-      },
-      "versions": {
-        "1.0.0": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/Loki.vtx.silent-edit@1.0.0.zip",
-          "sha256": "a26a44206493c1df9a3506df0bf28b52e0aa020b97a61c4b20f8ff5fd226e8d6",
-          "size": 3039,
-          "dependencies": {
-            "revenge.api": {
-              "version": ">=1"
-            },
-            "discord": {
-              "version": "*"
-            },
-            "dev.kmmiio99o.lib": {
-              "version": ">=1.2.17"
-            }
-          }
-        }
-      }
-    },
     "dev.kmmiio99o.altmaster": {
       "name": "AltMaster",
       "description": "Check linked alt accounts, report a new alt, and appeal false positives — right from the user profile context menu.",
