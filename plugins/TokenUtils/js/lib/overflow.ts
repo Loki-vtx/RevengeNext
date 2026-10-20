@@ -112,6 +112,7 @@ function inject(res: any, props: any): any {
 
 		const items: any[] = menu.props.items
 		const user = props?.user
+        console.log('TokenUtils props', Object.keys(props ?? {}), props?.user)
 		const targetId: string | undefined = user?.id ?? user?.user?.id
 		const ownId = getCurrentUserId()
 		// Without a known current user we cannot tell our own profile apart.
