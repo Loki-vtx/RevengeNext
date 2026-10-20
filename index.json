@@ -491,6 +491,30 @@
           }
         }
       }
+    },
+    "loki.vtx.silent.edit": {
+      "name": "SilentEdit",
+      "description": "Adds Silent Edit to your own messages. It swaps the message for a placeholder, then deletes the old one.",
+      "author": "Loki-vtx <918437723755384832> ",
+      "icon": "TrashIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/loki.vtx.silent.edit@1.0.0.zip",
+          "sha256": "67ddbd5fcebaa120c9e4780b10c5a472bbcd33034e8aa0fd6f81d7e6fa27a6ca",
+          "size": 2548,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
     }
   }
 }
