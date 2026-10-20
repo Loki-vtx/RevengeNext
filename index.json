@@ -427,13 +427,13 @@
       "author": "Loki-vtx",
       "icon": "KeyIcon",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "versions": {
-        "1.0.0": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/dev.loki.vtx.token-utils@1.0.0.zip",
-          "sha256": "b3c5b2d75ab639488f67996309b8a9e963895cf504f79cfdd757c9d3556bc6cb",
-          "size": 2868,
+        "1.0.1": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/dev.loki.vtx.token-utils@1.0.1.zip",
+          "sha256": "471ec0d271982a5d8106bfc7b2eaa48f38014fd38b344d9d64f9b729a66fc521",
+          "size": 2867,
           "dependencies": {
             "revenge.api": {
               "version": ">=1 <2"
