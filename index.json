@@ -421,6 +421,30 @@
         }
       }
     },
+    "dev.loki.vtx.token-utils": {
+      "name": "TokenUtils",
+      "description": "Copy your account token from your profile and switch accounts with a token.(made by ai because i need it asap)",
+      "author": "Loki-vtx",
+      "icon": "KeyIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/dev.loki.vtx.token-utils@1.0.0.zip",
+          "sha256": "9bbd60df2f509dba54a3ad66f51738a052c66a3fcddd1a3c5f4a7734af0c160b",
+          "size": 2840,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "loki.vtx.gif.roulette": {
       "name": "GIF Roulette",
       "description": "Sends a random GIF from your favorite GIFs. Based on btmc727",
