@@ -1,0 +1,20 @@
+{
+	"format": 1,
+	"id": "dev.claude.silent.delete",
+	"name": "Silent Delete",
+	"description": "Adds Silent Delete to your own messages. It swaps the message for a placeholder, then deletes both.",
+	"author": "Claude.ai",
+	"icon": "TrashIcon",
+	"version": "1.0.0",
+	"dependencies": {
+		"revenge.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}
