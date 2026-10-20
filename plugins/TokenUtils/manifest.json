@@ -1,0 +1,20 @@
+{
+	"format": 1,
+	"id": "dev.loki.vtx.token-utils",
+	"name": "TokenUtils",
+	"description": "Copy your account token from your profile and switch accounts with a token.(made by ai because i need it asap)",
+	"author": "Loki-vtx",
+	"icon": "KeyIcon",
+	"version": "1.0.0",
+	"dependencies": {
+		"revenge.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}
