@@ -5,7 +5,7 @@
 	"description": "Adds Silent Edit to your own messages. It swaps the message for a placeholder, then deletes the old one.",
 	"author": "Loki-vtx <918437723755384832> ",
 	"icon": "TrashIcon",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"revenge.api": {
 			"version": ">=1 <2"
