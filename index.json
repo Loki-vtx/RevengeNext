@@ -498,12 +498,12 @@
       "author": "Loki-vtx <918437723755384832> ",
       "icon": "TrashIcon",
       "channels": {
-        "latest": "1.0.0"
+        "latest": "1.0.1"
       },
       "versions": {
-        "1.0.0": {
-          "url": "https://Loki-vtx.github.io/RevengeNext/loki.vtx.silent.edit@1.0.0.zip",
-          "sha256": "67ddbd5fcebaa120c9e4780b10c5a472bbcd33034e8aa0fd6f81d7e6fa27a6ca",
+        "1.0.1": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/loki.vtx.silent.edit@1.0.1.zip",
+          "sha256": "3a938032e89f21b661a4596f0e2285108a12b008e0c7b753d1e6606e0e839d92",
           "size": 2548,
           "dependencies": {
             "revenge.api": {
