@@ -103,6 +103,30 @@
         }
       }
     },
+    "dev.claude.silent.delete": {
+      "name": "Silent Delete",
+      "description": "Adds Silent Delete to your own messages. It swaps the message for a placeholder, then deletes both.",
+      "author": "Claude.ai",
+      "icon": "TrashIcon",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://Loki-vtx.github.io/RevengeNext/dev.claude.silent.delete@1.0.0.zip",
+          "sha256": "9742584f912815c28dc990d1e085851a1d101939179e9f766f5be7ced0d21b18",
+          "size": 2519,
+          "dependencies": {
+            "revenge.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "dev.kmmiio99o.altmaster": {
       "name": "AltMaster",
       "description": "Check linked alt accounts, report a new alt, and appeal false positives — right from the user profile context menu.",
