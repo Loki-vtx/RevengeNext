@@ -324,7 +324,7 @@
       "versions": {
         "1.3.0": {
           "url": "https://Loki-vtx.github.io/RevengeNext/dev.kmmiio99o.lib@1.3.0.zip",
-          "sha256": "6201baaf1525531fefbbbc28eb8d90396873b1c5e495a6a179c61659580490be",
+          "sha256": "ac50af0afc7ccbfeb1ff568b9823cac71f8efdee77b392074ab797de881e2164",
           "size": 29852,
           "dependencies": {
             "revenge.api": {
