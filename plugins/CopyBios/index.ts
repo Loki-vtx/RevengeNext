@@ -69,4 +69,4 @@ export default plugin({
         }
     },
 })
-// alao dont ask why theres this if plugin stared late...  just me fcking around}
+// alao dont ask why theres this if plugin stared late...  just me fcking around}.
